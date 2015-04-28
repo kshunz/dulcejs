@@ -1,0 +1,23 @@
+{
+  "name": "dulcejs",
+  "version": "0.0.1",
+  "description": "A sweet JS framework (WIP)",
+  "main": "dulce.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kshunz/dulcejs"
+  },
+  "keywords": [
+    "framework",
+    "javascript"
+  ],
+  "author": "K. Shunz, Dwayne Ford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kshunz/dulcejs/issues"
+  },
+  "homepage": "https://github.com/kshunz/dulcejs"
+}
