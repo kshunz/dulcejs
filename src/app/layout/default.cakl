@@ -1,0 +1,9 @@
+<style>
+    body {
+        background: forestgreen;
+        color: white;
+    }
+</style>
+<div>
+    <span id="content-for-layout">...</span>
+</div>
