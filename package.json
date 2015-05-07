@@ -14,10 +14,11 @@
     "framework",
     "javascript"
   ],
-  "author": [
-    "K. Shunz",
-    "Dwayne Ford"
-  ],
+  "author": "K. Shunz",
+  "contributors": [{
+    "name": "Dwayne Ford",
+    "email": "dwayneford@gmail.com"
+  }],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kshunz/dulcejs/issues"
