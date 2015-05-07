@@ -1,0 +1,22 @@
+{
+  "name": "dulcejs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kshunz/dulcejs",
+  "authors": [
+    "Dwayne Ford <dwayneford@gmail.com>"
+  ],
+  "description": "A sweet front-end JS framework",
+  "main": "dulce.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor",
+    "test",
+    "tests"
+  ]
+}
