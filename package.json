@@ -15,7 +15,8 @@
     "javascript"
   ],
   "author": [
-    "K. Shunz", "Dwayne Ford"
+    "K. Shunz",
+    "Dwayne Ford"
   ],
   "license": "MIT",
   "bugs": {
@@ -25,5 +26,11 @@
   "dependencies": {
     "requirejs": "~2.1.17",
     "bower": "~1.4.1"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "gulp-mocha": "~2.0.1",
+    "sinon": "~1.14.1",
+    "chai": "~2.3.0"
   }
 }
