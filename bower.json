@@ -1,8 +1,9 @@
 {
   "name": "dulcejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/kshunz/dulcejs",
   "authors": [
+    "K. Shunz",
     "Dwayne Ford <dwayneford@gmail.com>"
   ],
   "description": "A sweet front-end JS framework",
