@@ -15,10 +15,12 @@
     "javascript"
   ],
   "author": "K. Shunz",
-  "contributors": [{
-    "name": "Dwayne Ford",
-    "email": "dwayneford@gmail.com"
-  }],
+  "contributors": [
+    {
+      "name": "Dwayne Ford",
+      "email": "dwayneford@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kshunz/dulcejs/issues"
@@ -32,6 +34,7 @@
     "gulp": "~3.8.11",
     "gulp-mocha": "~2.0.1",
     "sinon": "~1.14.1",
-    "chai": "~2.3.0"
+    "chai": "~2.3.0",
+    "gulp-tap": "~0.1.3"
   }
 }
