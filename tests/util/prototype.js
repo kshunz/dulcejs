@@ -1,4 +1,5 @@
 describe('The framework UTIL prototype', function() {
+  //@TODO: Make better. This is a sloppy auto-inclusion
   var path = require('path'),
       sourceFile = __filename.replace('tests', 'src').replace('.js', ''),
       util = require(sourceFile);
@@ -9,7 +10,7 @@ describe('The framework UTIL prototype', function() {
   });
 
   it('should have a DEBUGGER', function() {
-    expect(util.debugger).to.not.be.undefined;
-    expect(util.debugger).to.be.a('function');
+    expect(util.debug).to.not.be.undefined;
+    expect(util.debug).to.be.a('function');
   });
 });

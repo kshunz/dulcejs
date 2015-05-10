@@ -1,7 +1,11 @@
-describe('APP prototype should have all methods from CONTENTS', function() {
-  var constructor = require(appSrc + '/app/prototype');
+describe('APP prototype', function() {
+  var filename = path.basename(__filename, '.js');
+  var constructor = require(sourceFiles[filename]);
 
-  it('should have a router method', function() {
+  xit('should have a ROUTER method', function() {
     expect(constructor.hasOwnProperty('router')).to.be.true;
-  })
+  });
+  xit('should have a DEBUG method', function() {
+    expect(constructor.hasOwnProperty('debug')).to.be.true;
+  });
 });
